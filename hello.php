@@ -1,2 +1,3 @@
 <?php  echo 'hello'; 
-echo "new page"; ?>
+echo "new page";
+echo "third"; ?>
