@@ -13,6 +13,8 @@
 		<span aria-hidden="true">&times;</span>
 	</button>
 	<?php echo "Welcome"; ?>
+		<?php echo "person"; ?>
+
 </div>
 </body>
 </html>
